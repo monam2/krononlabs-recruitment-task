@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        binance: ["var(--binance-plex)", "sans-serif"],
+      },
       fontSize: {
         root: "12px",
         "heading-1": "52px",

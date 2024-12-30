@@ -94,8 +94,13 @@
   --color-BadgeBg: rgba(240, 185, 11, 0.1);
 }
 
+html {
+  --binance-plex: "Binance PLEX";
+}
+
 body {
   background-color: var(--color-bg1);
+  font-family: var(--binance-plex);
   height: 100%;
   width: 100vw;
   overflow-y: auto;
