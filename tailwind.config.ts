@@ -12,7 +12,7 @@ export default {
         binance: ["var(--binance-plex)", "sans-serif"],
       },
       fontSize: {
-        root: "12px",
+        root: "10px",
         "heading-1": "52px",
         "heading-2": "48px",
         "heading-3": "30px",
